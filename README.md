@@ -1,7 +1,8 @@
 # Power BI HR Analytics Dashboard
     
 📂 Download .pbix and open  with Microsoft Power BI Desktop.
-👉 [Download it_company.pbix](https://github.com/sujithts31618-ui/Power_BI_HR_Analytics_Dashboard/blob/main/it_company.pbix?raw=true)
+👉 [Download it_company.pbix](it_company%20(2).pbix)
+
 
 ## 🔍 Project Overview
 
@@ -170,13 +171,10 @@ Date: 1st August 2025
 
 ## 📂 Download .pbix 
 
-
-
 The report is provided in .pbix format and is designed to be opened using Microsoft Power BI Desktop.
 Please ensure you have Power BI Desktop installed to view and interact with the dashboard.
 
-👉 [Download it_company.pbix](https://github.com/sujithts12/Power_BI_HR_Analytics_Dashboard/blob/main/it_company.pbix?raw=true)
-
+👉 [Download it_company.pbix](it_company%20(2).pbix)
 
 ## 🎥 [Watch the interactive video demo on LinkedIn] 
 - Link : https://l1nk.dev/u25pi
