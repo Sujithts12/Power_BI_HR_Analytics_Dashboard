@@ -144,40 +144,23 @@ To enhance the dashboard visually and allow users to filter data by company usin
 
 
 
-# Report Snapshot (Power BI DESKTOP)
+# Report Snapshot (Power BI DESKTOP) 
 1.
-![Dashboard Screenshot](https://raw.githubusercontent.com/sujithts31618-ui/Power_BI_HR_Analytics_Dashboard/main/image1.png)
-
-
-
-
+![Bike Sales Dashboard 1](https://raw.githubusercontent.com/Sujithts12/Power_BI_HR_Analytics_Dashboard/main/image.png)
 2.
-
-![Dashboard Screenshot](https://raw.githubusercontent.com/sujithts31618-ui/Power_BI_HR_Analytics_Dashboard/main/image6.png)
-
-
+![Bike Sales Dashboard 2](https://raw.githubusercontent.com/Sujithts12/Power_BI_HR_Analytics_Dashboard/main/image1.png)
 3.
-
-![Dashboard Screenshot](https://raw.githubusercontent.com/sujithts31618-ui/Power_BI_HR_Analytics_Dashboard/main/image2.png)
-
-
+![Bike Sales Dashboard 3](https://raw.githubusercontent.com/Sujithts12/Power_BI_HR_Analytics_Dashboard/main/image2.png)
 4.
-
-![Dashboard Screenshot](https://raw.githubusercontent.com/sujithts31618-ui/Power_BI_HR_Analytics_Dashboard/main/image3.png)
-
-
+![Bike Sales Dashboard 4](https://raw.githubusercontent.com/Sujithts12/Power_BI_HR_Analytics_Dashboard/main/image3.png)
 5.
-
-![Dashboard Screenshot](https://raw.githubusercontent.com/sujithts31618-ui/Power_BI_HR_Analytics_Dashboard/main/image5.png)
+![Bike Sales Dashboard 5](https://raw.githubusercontent.com/Sujithts12/Power_BI_HR_Analytics_Dashboard/main/image4.png)
 6.
-
-![Dashboard Screenshot](https://raw.githubusercontent.com/sujithts31618-ui/Power_BI_HR_Analytics_Dashboard/main/image.png)
+![Bike Sales Dashboard 6](https://raw.githubusercontent.com/Sujithts12/Power_BI_HR_Analytics_Dashboard/main/image5.png)
 7.
-
-![Dashboard Screenshot](https://raw.githubusercontent.com/sujithts31618-ui/Power_BI_HR_Analytics_Dashboard/main/image7.png)
-
-
-
+![Bike Sales Dashboard 6](https://raw.githubusercontent.com/Sujithts12/Power_BI_HR_Analytics_Dashboard/main/image6.png)
+8.
+![Bike Sales Dashboard 6](https://raw.githubusercontent.com/Sujithts12/Power_BI_HR_Analytics_Dashboard/main/image7.png)
 
 
 ## 👨‍💻 Author
@@ -192,7 +175,7 @@ Date: 1st August 2025
 The report is provided in .pbix format and is designed to be opened using Microsoft Power BI Desktop.
 Please ensure you have Power BI Desktop installed to view and interact with the dashboard.
 
-👉 [Download it_company.pbix](https://github.com/sujithts31618-ui/Power_BI_HR_Analytics_Dashboard/blob/main/it_company.pbix?raw=true)
+👉 [Download it_company.pbix](https://github.com/sujithts12/Power_BI_HR_Analytics_Dashboard/blob/main/it_company.pbix?raw=true)
 
 
 ## 🎥 [Watch the interactive video demo on LinkedIn] 
